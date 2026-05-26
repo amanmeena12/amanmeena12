@@ -15,10 +15,8 @@ Hi, I’m Aman Meena, <br>a Data Science student and aspiring Data Analyst passi
 ---
 [![](https://komarev.com/ghpvc/?username=amanmeena12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Contribution Snake</h3>
 
 ###
 
-<img src="https://raw.githubusercontent.com/amanmeena12/snake-output/snake.svg" alt="Snake animation" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
