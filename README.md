@@ -15,20 +15,4 @@ Hi, I’m Aman Meena, <br>a Data Science student and aspiring Data Analyst passi
 ---
 [![](https://komarev.com/ghpvc/?username=amanmeena12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=amanmeena12.amanmeena12&left_text=Profile%20views"  />
-</div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amanmeena12/amanmeena12/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amanmeena12/amanmeena12/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amanmeena12/amanmeena12/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/amanmeena12/amanmeena12/snake-output/snake.svg" alt="Snake animation" />
-
-###
